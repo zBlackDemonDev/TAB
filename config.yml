@@ -4,10 +4,10 @@ header-footer:
   enabled: true
   header:
     - ""
-    - "&&x&0&8&E&7&F&B&l‹&x&1&7&E&4&F&B&lꜱ&x&2&6&E&1&F&B&lᴇ&x&3&5&D&E&F&C&lʀ&x&4&4&D&B&F&C&lᴠ&x&5&3&D&8&F&C&lᴇ&x&6&2&D&5&F&C&lʀ&x&7&1&D&2&F&C&lɴ&x&8&0&C&F&F&C&lᴀ&x&8&F&C&C&F&D&lᴍ&x&9&E&C&9&F&D&lᴇ&x&A&D&C&6&F&D&l›"
+    - "&#FB0000s&#FB0B0Bᴇ&#FC1717ʀ&#FC2222ᴠ&#FC2D2Dᴇ&#FD3939ʀ&#FD4444ɴ&#FD4F4Fᴀ&#FE5B5Bᴍ&#FE6666ᴇ"
     - ""
     - "&f¡Comparte nuestra IP a tus amigos!"
-    - "&3&o&x&0&8&E&7&F&B‹&x&1&7&E&4&F&Bꜱ&x&2&6&E&1&F&Bᴇ&x&3&5&D&E&F&Cʀ&x&4&4&D&B&F&Cᴠ&x&5&3&D&8&F&Cᴇ&x&6&2&D&5&F&Cʀ&x&7&1&D&2&F&Cɴ&x&8&0&C&F&F&Cᴀ&x&8&F&C&C&F&Dᴍ&x&9&E&C&9&F&Dᴇ&x&A&D&C&6&F&D›"
+    - "&#FB0000s&#FB0B0Bᴇ&#FC1717ʀ&#FC2222ᴠ&#FC2D2Dᴇ&#FD3939ʀ&#FD4444ɴ&#FD4F4Fᴀ&#FE5B5Bᴍ&#FE6666ᴇ"
     - ""
   footer:
     - ""
@@ -15,7 +15,7 @@ header-footer:
     - "&7Unete a la comunidad: &ddiscord.gg"
     - ""
     - "&f¡Compra &erangos&f, &cbeneficios&f y más!"
-    - "&x&0&8&E&7&F&B‹&x&1&2&E&5&F&Bꜱ&x&1&D&E&3&F&Bᴇ&x&2&7&E&1&F&Bʀ&x&3&1&D&F&F&Cᴠ&x&3&C&D&D&F&Cᴇ&x&4&6&D&B&F&Cʀ&x&5&0&D&9&F&Cɴ&x&5&B&D&7&F&Cᴀ&x&6&5&D&4&F&Cᴍ&x&6&F&D&2&F&Cᴇ&x&7&9&D&0&F&C.&x&8&4&C&E&F&Dꜱ&x&8&E&C&C&F&Dʜ&x&9&8&C&A&F&Dᴏ&x&A&3&C&8&F&Dᴘ&x&A&D&C&6&F&D›"
+    - "&#FB0000s&#FB0B0Bᴇ&#FC1717ʀ&#FC2222ᴠ&#FC2D2Dᴇ&#FD3939ʀ&#FD4444ɴ&#FD4F4Fᴀ&#FE5B5Bᴍ&#FE6666ᴇ"
   disable-condition: '%world%=disabledworld'
   per-world:
     world1:
@@ -93,7 +93,7 @@ scoreboard:
   respect-other-plugins: true
   scoreboards:
     scoreboard:
-      title: '&x&0&8&E&7&F&B&l<&x&1&7&E&4&F&B&lS&x&2&6&E&1&F&B&lE&x&3&5&D&E&F&C&lR&x&4&4&D&B&F&C&lV&x&5&3&D&8&F&C&lE&x&6&2&D&5&F&C&lR&x&7&1&D&2&F&C&lN&x&8&0&C&F&F&C&lA&x&8&F&C&C&F&D&lM&x&9&E&C&9&F&D&lE&x&A&D&C&6&F&D&l>'
+      title: '&#FB0000s&#FB0B0Bᴇ&#FC1717ʀ&#FC2222ᴠ&#FC2D2Dᴇ&#FD3939ʀ&#FD4444ɴ&#FD4F4Fᴀ&#FE5B5Bᴍ&#FE6666ᴇ'
       lines:
        - '  &7⌚ %localtime_time%'
        - ''
@@ -107,7 +107,7 @@ scoreboard:
        - ' &fLobby: &x&0&8&E&7&F&B#1'
        - ' &fConectados: &a%bungee_total%'
        - ''
-       - '   &x&0&8&E&7&F&B‹&x&1&2&E&5&F&Bꜱ&x&1&D&E&3&F&Bᴇ&x&2&7&E&1&F&Bʀ&x&3&1&D&F&F&Cᴠ&x&3&C&D&D&F&Cᴇ&x&4&6&D&B&F&Cʀ&x&5&0&D&9&F&Cɴ&x&5&B&D&7&F&Cᴀ&x&6&5&D&4&F&Cᴍ&x&6&F&D&2&F&Cᴇ&x&7&9&D&0&F&C›'
+       - '   &#FB0000s&#FB0B0Bᴇ&#FC1717ʀ&#FC2222ᴠ&#FC2D2Dᴇ&#FD3939ʀ&#FD4444ɴ&#FD4F4Fᴀ&#FE5B5Bᴍ&#FE6666ᴇ'
 layout:
   enabled: false
   direction: COLUMNS
